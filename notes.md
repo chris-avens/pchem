@@ -1,0 +1,91 @@
+classification of matter:
+
+- substance and mixtures:
+  - substance:
+    - elements and compounds
+      - elements
+        - natural abundance of elements by mass in earth and human body
+      - compounds
+  - mixtures:
+    - homogenous
+    - heterogenous
+- states:
+  - solid
+  - liquid
+  - gas
+  - plasma
+  - Bose-Einstein superfluid condensate
+  - quark-gluon plasma
+  - Fermionic condensate
+- physical and chemical properties
+- extensive and intensive properties
+- measurements:
+  - SI units
+  - prefixes
+  - temperature scale
+  - scientific notation
+  - significant figures
+- accuracy and precision
+- dimensional analysis
+
+atoms, molecules, and ions:
+
+- atomic theory
+  - law of definite proportions
+  - law of multiple proportions
+- structure of the atom:
+  - electron
+  - radioactivity:
+    - alpha particles (He nucleus)
+    - beta particles (electron)
+  - proton
+  - neutron
+- atomic number, mass number, isotopes:
+  - atomic number (Z) - number of protons
+  - mass number (A) - number of protons + neutrons
+  - isotopes - same Z, different A
+- periodic table
+  - periods - rows
+  - groups - columns
+    - alkali metals
+    - alkaline earth metals
+    - halogens
+    - noble gas
+  - metals
+  - nonmetals
+  - metalloid
+- molecules and ions
+- chemical formulas
+  - molecular formula
+  - structural formula:
+    - allotrope - same element, different properties
+  - molecular models
+    - ball and stick model
+    - space filling model
+  - empirical formulas
+    - elements present in compound in simplest whole number ratio
+    - H2O2 -> HO
+  - formula of ionic compounds
+- naming compounds
+  - ionic compounds
+    - cations
+    - anions
+  - molecular compounds
+  - acids
+  - base
+  - hydrates
+  - organic compounds
+- stoichiometry
+  - atomic mass - isotope dependent
+  - average atomic mass - based on abundance
+  - Avogrado's number
+    - mole
+    - molar mass
+  - molecular mass
+    - mass spectrometer
+  - percent composition of compounds
+  - detemination of molecular formulas
+  - chemical reactions and equations
+    - balancing
+    - limiting reactants
+    - reaction yield - actual / theoretical

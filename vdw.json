@@ -1,0 +1,28 @@
+{
+  "varDerWaalsConstants": [
+    {"gas": "He", "a": 0.034, "b": 0.0237},
+    {"gas": "Ne", "a": 0.211, "b": 0.0171},
+    {"gas": "Ar", "a": 1.34, "b": 0.0322},
+    {"gas": "Kr", "a": 2.32, "b": 0.0398},
+    {"gas": "Xe", "a": 4.19, "b": 0.0266},
+    {"gas": "H2", "a": 0.244, "b": 0.0266},
+    {"gas": "N2", "a": 1.39, "b": 0.0391},
+    {"gas": "O2", "a": 1.36, "b": 0.0318},
+    {"gas": "Cl2", "a": 6.49, "b": 0.0562},
+    {"gas": "CO2", "a": 3.59, "b": 0.0427},
+    {"gas": "CH4", "a": 2.25, "b": 0.0428},
+    {"gas": "CCl4", "a": 20.4, "b": 0.138},
+    {"gas": "NH3", "a": 4.17, "b": 0.0371},
+    {"gas": "H2O", "a": 5.46, "b": 0.0305}
+  ],
+  "units": {
+    "a": "atm·L²/mol²",
+    "b": "L/mol"
+  },
+  "source": {
+    "type": "textbook",
+    "title": "General Chemistry: The Essential Concepts",
+    "author": "Chang",
+    "table": "Table 5.3"
+  }
+}
